@@ -8,7 +8,6 @@ In this project, I designed and implemented a fully operational school database 
 - **Python (VS Code / Jupyter Notebook)** – to connect to the database, execute SQL queries, and visualize data  
 - **Pandas** – for tabular data representation and analysis  
 
-![Schema](https://github.com/Josh-Osas/School-Database-Project-built-with-SQL-and-Python-Jupyter-Notebook-/blob/main/database-schema.png)
 
 ## Project Highlights
 1. **Database Design**
